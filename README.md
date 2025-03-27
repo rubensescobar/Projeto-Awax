@@ -6,7 +6,7 @@
 Landing Page feita com um design moderno e totalmente responsivo, focado em mostrar os conhecimentos obtidos no curso de HTML5 e CSS3 na B7WEB.
 
 ## 🔧 Tecnologias Utilizadas
-- HTML, CSS e JavaScript
+- HTML e CSS 
 - Git e GitHub
 - Design feito por Alexander Bukin em https://behance.net/gallery/58301549/Free-Landing-Page
 
